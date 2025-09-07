@@ -1,0 +1,721 @@
+2025-08-16 12:23:48,615 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-16 12:23:48,615 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-16 12:23:48,615 [INFO]  * Restarting with stat
+2025-08-16 12:23:52,138 [WARNING]  * Debugger is active!
+2025-08-16 12:23:52,142 [INFO]  * Debugger PIN: 119-874-805
+2025-08-16 12:25:02,293 [INFO] 127.0.0.1 - - [16/Aug/2025 12:25:02] "[35m[1mPOST /run_pipeline HTTP/1.1[0m" 500 -
+2025-08-16 12:28:25,451 [INFO] 127.0.0.1 - - [16/Aug/2025 12:28:25] "[33mGET / HTTP/1.1[0m" 404 -
+2025-08-16 12:28:25,526 [INFO] 127.0.0.1 - - [16/Aug/2025 12:28:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-16 12:31:34,009 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-08-16 12:31:34,589 [INFO]  * Restarting with stat
+2025-08-16 12:31:38,384 [WARNING]  * Debugger is active!
+2025-08-16 12:31:38,388 [INFO]  * Debugger PIN: 119-874-805
+2025-08-16 12:31:50,515 [INFO] 127.0.0.1 - - [16/Aug/2025 12:31:50] "[35m[1mPOST /run_pipeline HTTP/1.1[0m" 500 -
+2025-08-16 12:38:30,857 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-16 12:38:30,857 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-16 12:38:30,857 [INFO]  * Restarting with stat
+2025-08-16 12:38:34,701 [WARNING]  * Debugger is active!
+2025-08-16 12:38:34,701 [INFO]  * Debugger PIN: 119-874-805
+2025-08-16 12:39:05,426 [INFO] 127.0.0.1 - - [16/Aug/2025 12:39:05] "[35m[1mPOST /run_pipeline HTTP/1.1[0m" 500 -
+2025-08-16 12:40:12,809 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-08-16 12:40:13,578 [INFO]  * Restarting with stat
+2025-08-16 12:40:17,843 [WARNING]  * Debugger is active!
+2025-08-16 12:40:17,843 [INFO]  * Debugger PIN: 119-874-805
+2025-08-16 12:40:23,009 [INFO] 127.0.0.1 - - [16/Aug/2025 12:40:22] "[35m[1mPOST /run_pipeline HTTP/1.1[0m" 500 -
+2025-08-16 17:12:37,740 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\runner_stransunet.py', reloading
+2025-08-16 17:12:38,517 [INFO]  * Restarting with stat
+2025-08-16 17:12:43,813 [WARNING]  * Debugger is active!
+2025-08-16 17:12:43,829 [INFO]  * Debugger PIN: 119-874-805
+2025-08-16 17:14:44,722 [INFO] 127.0.0.1 - - [16/Aug/2025 17:14:44] "[35m[1mPOST /run_pipeline HTTP/1.1[0m" 500 -
+2025-08-16 17:16:22,620 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-08-16 17:16:23,337 [INFO]  * Restarting with stat
+2025-08-16 17:16:27,397 [WARNING]  * Debugger is active!
+2025-08-16 17:16:27,401 [INFO]  * Debugger PIN: 119-874-805
+2025-08-16 17:17:22,061 [INFO] 127.0.0.1 - - [16/Aug/2025 17:17:22] "[35m[1mPOST /run_pipeline HTTP/1.1[0m" 500 -
+2025-08-16 17:23:15,937 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\utils\\image_splitter.py', reloading
+2025-08-16 17:23:16,641 [INFO]  * Restarting with stat
+2025-08-16 17:23:20,552 [WARNING]  * Debugger is active!
+2025-08-16 17:23:20,555 [INFO]  * Debugger PIN: 119-874-805
+2025-08-16 17:23:31,876 [INFO] 127.0.0.1 - - [16/Aug/2025 17:23:31] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-16 17:23:32,496 [INFO] 127.0.0.1 - - [16/Aug/2025 17:23:32] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-16 17:23:50,620 [INFO] 127.0.0.1 - - [16/Aug/2025 17:23:50] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-16 17:23:54,835 [INFO] 127.0.0.1 - - [16/Aug/2025 17:23:54] "[36mGET /download?file=changed_rgb.png HTTP/1.1[0m" 304 -
+2025-08-16 17:23:54,894 [INFO] 127.0.0.1 - - [16/Aug/2025 17:23:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-16 17:25:22,027 [INFO] 127.0.0.1 - - [16/Aug/2025 17:25:22] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-16 17:25:22,355 [INFO] 127.0.0.1 - - [16/Aug/2025 17:25:22] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-16 17:26:25,738 [INFO] 127.0.0.1 - - [16/Aug/2025 17:26:25] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-16 17:40:41,823 [INFO] 127.0.0.1 - - [16/Aug/2025 17:40:41] "[36mGET /download?file=changed_rgb.png HTTP/1.1[0m" 304 -
+2025-08-16 17:52:01,838 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-08-16 17:52:02,597 [INFO]  * Restarting with stat
+2025-08-16 18:04:43,258 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-16 18:04:43,258 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-16 18:04:43,258 [INFO]  * Restarting with stat
+2025-08-16 18:04:47,117 [WARNING]  * Debugger is active!
+2025-08-16 18:04:47,118 [INFO]  * Debugger PIN: 119-874-805
+2025-08-16 18:06:45,810 [INFO] 127.0.0.1 - - [16/Aug/2025 18:06:45] "[33mPOST /run_pipeline HTTP/1.1[0m" 404 -
+2025-08-16 18:06:48,678 [INFO] 127.0.0.1 - - [16/Aug/2025 18:06:48] "[33mPOST /run_pipeline HTTP/1.1[0m" 404 -
+2025-08-16 18:06:52,103 [INFO] 127.0.0.1 - - [16/Aug/2025 18:06:52] "[33mPOST /run_pipeline HTTP/1.1[0m" 404 -
+2025-08-16 18:06:52,813 [INFO] 127.0.0.1 - - [16/Aug/2025 18:06:52] "[33mPOST /run_pipeline HTTP/1.1[0m" 404 -
+2025-08-16 18:06:55,795 [INFO] 127.0.0.1 - - [16/Aug/2025 18:06:55] "[33mPOST /run_pipeline HTTP/1.1[0m" 404 -
+2025-08-16 18:24:04,389 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-08-16 18:24:13,808 [INFO]  * Restarting with stat
+2025-08-16 18:24:17,481 [WARNING]  * Debugger is active!
+2025-08-16 18:24:17,485 [INFO]  * Debugger PIN: 119-874-805
+2025-08-16 18:25:14,653 [INFO] 127.0.0.1 - - [16/Aug/2025 18:25:14] "[35m[1mPOST /run_pipeline HTTP/1.1[0m" 500 -
+2025-08-16 18:33:40,094 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-08-16 18:33:40,966 [INFO]  * Restarting with stat
+2025-08-16 18:33:46,200 [WARNING]  * Debugger is active!
+2025-08-16 18:33:46,209 [INFO]  * Debugger PIN: 119-874-805
+2025-08-16 18:34:05,459 [INFO] 127.0.0.1 - - [16/Aug/2025 18:34:05] "[35m[1mPOST /run_pipeline HTTP/1.1[0m" 500 -
+2025-08-16 18:35:28,392 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-08-16 18:35:29,164 [INFO]  * Restarting with stat
+2025-08-16 18:35:33,070 [WARNING]  * Debugger is active!
+2025-08-16 18:35:33,070 [INFO]  * Debugger PIN: 119-874-805
+2025-08-16 18:35:59,550 [INFO] 127.0.0.1 - - [16/Aug/2025 18:35:59] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-16 18:36:00,001 [INFO] 127.0.0.1 - - [16/Aug/2025 18:36:00] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-16 18:36:15,882 [INFO] 127.0.0.1 - - [16/Aug/2025 18:36:15] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-16 20:24:08,713 [INFO] 127.0.0.1 - - [16/Aug/2025 20:24:08] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-16 20:24:09,057 [INFO] 127.0.0.1 - - [16/Aug/2025 20:24:09] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-16 23:13:38,846 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\runner_stransunet.py', reloading
+2025-08-16 23:13:39,877 [INFO]  * Restarting with stat
+2025-08-16 23:13:45,731 [WARNING]  * Debugger is active!
+2025-08-16 23:13:45,732 [INFO]  * Debugger PIN: 119-874-805
+2025-08-16 23:15:15,182 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-08-16 23:15:15,658 [INFO]  * Restarting with stat
+2025-08-16 23:15:19,957 [WARNING]  * Debugger is active!
+2025-08-16 23:15:19,960 [INFO]  * Debugger PIN: 119-874-805
+2025-08-16 23:17:43,776 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-08-16 23:17:44,244 [INFO]  * Restarting with stat
+2025-08-16 23:17:48,837 [WARNING]  * Debugger is active!
+2025-08-16 23:17:48,844 [INFO]  * Debugger PIN: 119-874-805
+2025-08-16 23:19:28,077 [INFO] 127.0.0.1 - - [16/Aug/2025 23:19:28] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-16 23:19:28,531 [INFO] 127.0.0.1 - - [16/Aug/2025 23:19:28] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-16 23:20:19,249 [INFO] 127.0.0.1 - - [16/Aug/2025 23:20:19] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-16 23:21:06,671 [INFO] 127.0.0.1 - - [16/Aug/2025 23:21:06] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-16 23:22:00,476 [INFO] 127.0.0.1 - - [16/Aug/2025 23:22:00] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-16 23:22:00,862 [INFO] 127.0.0.1 - - [16/Aug/2025 23:22:00] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-16 23:23:20,724 [INFO] 127.0.0.1 - - [16/Aug/2025 23:23:20] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-16 23:26:06,479 [INFO] 127.0.0.1 - - [16/Aug/2025 23:26:06] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-16 23:26:06,824 [INFO] 127.0.0.1 - - [16/Aug/2025 23:26:06] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-16 23:28:42,175 [INFO] 127.0.0.1 - - [16/Aug/2025 23:28:42] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-16 23:28:42,542 [INFO] 127.0.0.1 - - [16/Aug/2025 23:28:42] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-16 23:29:22,750 [INFO] 127.0.0.1 - - [16/Aug/2025 23:29:22] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-16 23:30:51,273 [INFO] 127.0.0.1 - - [16/Aug/2025 23:30:51] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-16 23:30:51,629 [INFO] 127.0.0.1 - - [16/Aug/2025 23:30:51] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-16 23:31:48,208 [INFO] 127.0.0.1 - - [16/Aug/2025 23:31:48] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-16 23:32:57,728 [INFO] 127.0.0.1 - - [16/Aug/2025 23:32:57] "[36mGET /download?file=changed_rgb.png HTTP/1.1[0m" 304 -
+2025-08-16 23:35:07,724 [INFO] 127.0.0.1 - - [16/Aug/2025 23:35:07] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-16 23:35:08,089 [INFO] 127.0.0.1 - - [16/Aug/2025 23:35:08] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-16 23:37:51,403 [INFO] 127.0.0.1 - - [16/Aug/2025 23:37:51] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-16 23:47:13,198 [INFO] 127.0.0.1 - - [16/Aug/2025 23:47:13] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-16 23:47:13,547 [INFO] 127.0.0.1 - - [16/Aug/2025 23:47:13] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-16 23:47:58,387 [INFO] 127.0.0.1 - - [16/Aug/2025 23:47:58] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-18 21:02:29,045 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-18 21:02:29,046 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-18 21:02:29,051 [INFO]  * Restarting with stat
+2025-08-18 21:02:33,221 [WARNING]  * Debugger is active!
+2025-08-18 21:02:33,228 [INFO]  * Debugger PIN: 119-874-805
+2025-08-18 21:04:59,900 [INFO] 127.0.0.1 - - [18/Aug/2025 21:04:59] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-18 21:05:00,413 [INFO] 127.0.0.1 - - [18/Aug/2025 21:05:00] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-18 21:06:10,639 [INFO] 127.0.0.1 - - [18/Aug/2025 21:06:10] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-18 21:08:39,071 [INFO] 127.0.0.1 - - [18/Aug/2025 21:08:39] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-18 21:08:39,632 [INFO] 127.0.0.1 - - [18/Aug/2025 21:08:39] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-18 21:21:35,130 [INFO] 127.0.0.1 - - [18/Aug/2025 21:21:35] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-18 21:21:35,521 [INFO] 127.0.0.1 - - [18/Aug/2025 21:21:35] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-18 21:22:31,615 [INFO] 127.0.0.1 - - [18/Aug/2025 21:22:31] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-18 21:22:33,435 [INFO] 127.0.0.1 - - [18/Aug/2025 21:22:33] "[36mGET /download?file=binary_mask.png HTTP/1.1[0m" 304 -
+2025-08-18 21:39:54,736 [INFO] 127.0.0.1 - - [18/Aug/2025 21:39:54] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-18 21:39:55,102 [INFO] 127.0.0.1 - - [18/Aug/2025 21:39:55] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-18 21:41:07,978 [INFO] 127.0.0.1 - - [18/Aug/2025 21:41:07] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-22 22:43:27,279 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-22 22:43:27,281 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-22 22:43:27,296 [INFO]  * Restarting with stat
+2025-08-22 22:43:46,596 [WARNING]  * Debugger is active!
+2025-08-22 22:43:46,681 [INFO]  * Debugger PIN: 119-874-805
+2025-08-22 22:47:52,275 [INFO] 127.0.0.1 - - [22/Aug/2025 22:47:52] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-22 22:47:52,990 [INFO] 127.0.0.1 - - [22/Aug/2025 22:47:52] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-22 22:53:03,589 [INFO] 127.0.0.1 - - [22/Aug/2025 22:53:03] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-22 22:53:04,021 [INFO] 127.0.0.1 - - [22/Aug/2025 22:53:04] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-22 22:55:59,203 [INFO] 127.0.0.1 - - [22/Aug/2025 22:55:59] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-22 22:55:59,641 [INFO] 127.0.0.1 - - [22/Aug/2025 22:55:59] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-24 14:00:08,675 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-24 14:00:08,675 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-24 14:00:08,679 [INFO]  * Restarting with stat
+2025-08-24 14:00:12,041 [WARNING]  * Debugger is active!
+2025-08-24 14:00:12,058 [INFO]  * Debugger PIN: 119-874-805
+2025-08-24 14:01:20,353 [INFO] 127.0.0.1 - - [24/Aug/2025 14:01:20] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-24 14:01:20,832 [INFO] 127.0.0.1 - - [24/Aug/2025 14:01:20] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-24 14:06:08,172 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\runner_stransunet.py', reloading
+2025-08-24 14:06:08,935 [INFO]  * Restarting with stat
+2025-08-24 14:06:13,786 [WARNING]  * Debugger is active!
+2025-08-24 14:06:13,790 [INFO]  * Debugger PIN: 119-874-805
+2025-08-24 14:07:24,519 [INFO] 127.0.0.1 - - [24/Aug/2025 14:07:24] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-24 14:07:24,985 [INFO] 127.0.0.1 - - [24/Aug/2025 14:07:24] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-24 14:07:37,591 [INFO] 127.0.0.1 - - [24/Aug/2025 14:07:37] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-24 14:07:41,044 [INFO] 127.0.0.1 - - [24/Aug/2025 14:07:41] "[36mGET /download?file=binary_mask.png HTTP/1.1[0m" 304 -
+2025-08-24 14:07:41,142 [INFO] 127.0.0.1 - - [24/Aug/2025 14:07:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-26 12:32:17,641 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-26 12:32:17,641 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-26 12:32:17,641 [INFO]  * Restarting with stat
+2025-08-26 12:32:21,415 [WARNING]  * Debugger is active!
+2025-08-26 12:32:21,420 [INFO]  * Debugger PIN: 119-874-805
+2025-08-26 12:34:23,604 [INFO] 127.0.0.1 - - [26/Aug/2025 12:34:23] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-26 12:34:24,096 [INFO] 127.0.0.1 - - [26/Aug/2025 12:34:24] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-26 13:08:44,717 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\runner_stransunet.py', reloading
+2025-08-26 13:08:45,712 [INFO]  * Restarting with stat
+2025-08-26 13:08:54,094 [WARNING]  * Debugger is active!
+2025-08-26 13:08:54,100 [INFO]  * Debugger PIN: 119-874-805
+2025-08-26 13:08:58,394 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\runner_stransunet.py', reloading
+2025-08-26 13:08:58,855 [INFO]  * Restarting with stat
+2025-08-26 13:09:02,539 [WARNING]  * Debugger is active!
+2025-08-26 13:09:02,539 [INFO]  * Debugger PIN: 119-874-805
+2025-08-26 13:10:29,237 [INFO] 127.0.0.1 - - [26/Aug/2025 13:10:29] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-26 13:10:29,763 [INFO] 127.0.0.1 - - [26/Aug/2025 13:10:29] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-26 13:29:56,244 [INFO] 127.0.0.1 - - [26/Aug/2025 13:29:56] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-26 13:29:56,660 [INFO] 127.0.0.1 - - [26/Aug/2025 13:29:56] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-26 13:43:18,073 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\runner_stransunet.py', reloading
+2025-08-26 13:43:19,086 [INFO]  * Restarting with stat
+2025-08-26 13:43:24,164 [WARNING]  * Debugger is active!
+2025-08-26 13:43:24,172 [INFO]  * Debugger PIN: 119-874-805
+2025-08-26 13:44:03,099 [INFO] 127.0.0.1 - - [26/Aug/2025 13:44:03] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-26 13:44:03,569 [INFO] 127.0.0.1 - - [26/Aug/2025 13:44:03] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-26 13:46:18,171 [INFO] 127.0.0.1 - - [26/Aug/2025 13:46:18] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-26 13:48:00,247 [INFO] 127.0.0.1 - - [26/Aug/2025 13:48:00] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-26 13:48:00,596 [INFO] 127.0.0.1 - - [26/Aug/2025 13:48:00] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-28 23:18:32,213 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-28 23:18:32,216 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-28 23:18:32,218 [INFO]  * Restarting with stat
+2025-08-28 23:18:38,917 [WARNING]  * Debugger is active!
+2025-08-28 23:18:38,922 [INFO]  * Debugger PIN: 119-874-805
+2025-08-28 23:25:13,904 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\object_detection\\model.py', reloading
+2025-08-28 23:25:14,765 [INFO]  * Restarting with stat
+2025-08-28 23:25:20,962 [WARNING]  * Debugger is active!
+2025-08-28 23:25:20,965 [INFO]  * Debugger PIN: 119-874-805
+2025-08-28 23:34:17,686 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-08-28 23:34:18,333 [INFO]  * Restarting with stat
+2025-08-28 23:34:24,733 [WARNING]  * Debugger is active!
+2025-08-28 23:34:24,739 [INFO]  * Debugger PIN: 119-874-805
+2025-08-28 23:53:05,477 [INFO] 127.0.0.1 - - [28/Aug/2025 23:53:05] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-28 23:53:06,006 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-28 23:53:06,007 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-28 23:53:06,042 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-28 23:53:06,043 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-28 23:53:06,141 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-28 23:53:06,141 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-28 23:53:06,512 [INFO] 127.0.0.1 - - [28/Aug/2025 23:53:06] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-28 23:53:26,756 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-28 23:53:26,757 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-28 23:53:26,763 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-28 23:53:26,764 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-28 23:53:26,810 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-28 23:53:26,812 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-28 23:53:26,930 [INFO] 127.0.0.1 - - [28/Aug/2025 23:53:26] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-28 23:53:28,441 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-28 23:53:28,457 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-28 23:53:28,473 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-28 23:53:28,473 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-28 23:53:28,527 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-28 23:53:28,527 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-28 23:53:28,647 [INFO] 127.0.0.1 - - [28/Aug/2025 23:53:28] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-28 23:57:29,460 [INFO] 127.0.0.1 - - [28/Aug/2025 23:57:29] "[33mGET /download_pdf HTTP/1.1[0m" 404 -
+2025-08-28 23:57:29,531 [INFO] 127.0.0.1 - - [28/Aug/2025 23:57:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-29 00:04:21,797 [INFO] 127.0.0.1 - - [29/Aug/2025 00:04:21] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 00:04:22,151 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:04:22,151 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-29 00:04:22,190 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:04:22,190 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 00:04:22,246 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:04:22,257 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 00:04:22,373 [INFO] 127.0.0.1 - - [29/Aug/2025 00:04:22] "GET /download?file=/download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 00:04:46,141 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:04:46,141 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-29 00:04:46,151 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:04:46,151 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 00:04:46,192 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:04:46,192 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 00:04:46,324 [INFO] 127.0.0.1 - - [29/Aug/2025 00:04:46] "GET /download?file=/download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-29 00:04:47,509 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:04:47,509 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-29 00:04:47,509 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:04:47,509 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 00:04:47,558 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:04:47,558 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 00:04:47,672 [INFO] 127.0.0.1 - - [29/Aug/2025 00:04:47] "GET /download?file=/download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 00:14:28,113 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-08-29 00:14:29,467 [INFO]  * Restarting with stat
+2025-08-29 00:14:38,363 [WARNING]  * Debugger is active!
+2025-08-29 00:14:38,363 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 00:14:54,051 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-08-29 00:14:54,720 [INFO]  * Restarting with stat
+2025-08-29 00:15:01,070 [WARNING]  * Debugger is active!
+2025-08-29 00:15:01,070 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 00:15:34,926 [INFO] 127.0.0.1 - - [29/Aug/2025 00:15:34] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 00:15:35,294 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:15:35,294 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-29 00:15:35,330 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:15:35,330 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 00:15:35,379 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:15:35,379 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 00:15:35,588 [INFO] 127.0.0.1 - - [29/Aug/2025 00:15:35] "GET /download?file=/results/vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 00:15:48,763 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:15:48,763 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-29 00:15:48,774 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:15:48,774 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 00:15:48,818 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:15:48,820 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 00:15:48,934 [INFO] 127.0.0.1 - - [29/Aug/2025 00:15:48] "GET /download?file=/results/changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 00:15:50,163 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:15:50,163 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-29 00:15:50,170 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:15:50,170 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 00:15:50,221 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:15:50,221 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 00:15:50,353 [INFO] 127.0.0.1 - - [29/Aug/2025 00:15:50] "GET /download?file=/results/binary_mask.png HTTP/1.1" 200 -
+2025-08-29 00:15:51,097 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:15:51,097 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-29 00:15:51,109 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:15:51,109 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 00:15:51,151 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 00:15:51,151 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 00:15:51,258 [INFO] 127.0.0.1 - - [29/Aug/2025 00:15:51] "GET /download?file=/results/vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 12:10:12,427 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-29 12:10:12,428 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-29 12:10:12,432 [INFO]  * Restarting with stat
+2025-08-29 12:10:18,514 [WARNING]  * Debugger is active!
+2025-08-29 12:10:18,514 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 12:15:00,144 [INFO] 127.0.0.1 - - [29/Aug/2025 12:15:00] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 12:15:00,654 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:15:00,655 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-29 12:15:00,688 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:15:00,691 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 12:15:00,780 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:15:00,782 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 12:15:01,164 [INFO] 127.0.0.1 - - [29/Aug/2025 12:15:01] "GET /download?file=/results/changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 12:15:12,010 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:15:12,010 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-29 12:15:12,016 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:15:12,016 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 12:15:12,062 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:15:12,062 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 12:15:12,203 [INFO] 127.0.0.1 - - [29/Aug/2025 12:15:12] "GET /download?file=/results/binary_mask.png HTTP/1.1" 200 -
+2025-08-29 12:15:13,627 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:15:13,627 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-29 12:15:13,627 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:15:13,627 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 12:15:13,681 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:15:13,681 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 12:15:13,858 [INFO] 127.0.0.1 - - [29/Aug/2025 12:15:13] "GET /download?file=/results/vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 12:46:13,709 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-08-29 12:46:14,896 [INFO]  * Restarting with stat
+2025-08-29 12:46:23,464 [WARNING]  * Debugger is active!
+2025-08-29 12:46:23,468 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 12:46:51,719 [INFO] 127.0.0.1 - - [29/Aug/2025 12:46:51] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 12:46:52,094 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:46:52,095 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-29 12:46:52,125 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:46:52,126 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 12:46:52,180 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:46:52,180 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 12:46:52,391 [INFO] 127.0.0.1 - - [29/Aug/2025 12:46:52] "GET /download?file=/download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 12:46:54,873 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:46:54,873 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-29 12:46:54,882 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:46:54,883 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 12:46:54,931 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:46:54,931 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 12:46:55,052 [INFO] 127.0.0.1 - - [29/Aug/2025 12:46:55] "GET /download?file=/download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 12:46:56,269 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:46:56,270 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-29 12:46:56,274 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:46:56,274 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 12:46:56,324 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:46:56,324 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 12:46:56,453 [INFO] 127.0.0.1 - - [29/Aug/2025 12:46:56] "GET /download?file=/download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-29 12:46:56,897 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:46:56,897 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-29 12:46:56,904 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:46:56,904 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 12:46:56,934 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 12:46:56,934 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 12:46:57,069 [INFO] 127.0.0.1 - - [29/Aug/2025 12:46:57] "GET /download?file=/download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 13:04:25,653 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-08-29 13:04:26,599 [INFO]  * Restarting with stat
+2025-08-29 13:04:34,521 [WARNING]  * Debugger is active!
+2025-08-29 13:04:34,526 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 13:05:32,890 [INFO] 127.0.0.1 - - [29/Aug/2025 13:05:32] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 13:05:33,227 [INFO] 127.0.0.1 - - [29/Aug/2025 13:05:33] "[33mGET /download?file=/download_pdf?file=vis_maskrcnn.png HTTP/1.1[0m" 404 -
+2025-08-29 13:06:11,454 [INFO] 127.0.0.1 - - [29/Aug/2025 13:06:11] "[33mGET /download?file=/download_pdf?file=changed_rgb.png HTTP/1.1[0m" 404 -
+2025-08-29 13:06:12,625 [INFO] 127.0.0.1 - - [29/Aug/2025 13:06:12] "[33mGET /download?file=/download_pdf?file=binary_mask.png HTTP/1.1[0m" 404 -
+2025-08-29 13:06:13,356 [INFO] 127.0.0.1 - - [29/Aug/2025 13:06:13] "[33mGET /download?file=/download_pdf?file=vis_maskrcnn.png HTTP/1.1[0m" 404 -
+2025-08-29 13:07:26,559 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-08-29 13:07:27,499 [INFO]  * Restarting with stat
+2025-08-29 13:07:35,110 [WARNING]  * Debugger is active!
+2025-08-29 13:07:35,110 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 13:08:09,479 [INFO] 127.0.0.1 - - [29/Aug/2025 13:08:09] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 13:08:09,794 [INFO] 127.0.0.1 - - [29/Aug/2025 13:08:09] "[33mGET /download?file=/download?file=vis_maskrcnn.png HTTP/1.1[0m" 404 -
+2025-08-29 13:08:42,763 [INFO] 127.0.0.1 - - [29/Aug/2025 13:08:42] "[33mGET /download?file=/download?file=changed_rgb.png HTTP/1.1[0m" 404 -
+2025-08-29 13:08:43,955 [INFO] 127.0.0.1 - - [29/Aug/2025 13:08:43] "[33mGET /download?file=/download?file=binary_mask.png HTTP/1.1[0m" 404 -
+2025-08-29 13:08:44,523 [INFO] 127.0.0.1 - - [29/Aug/2025 13:08:44] "[33mGET /download?file=/download?file=vis_maskrcnn.png HTTP/1.1[0m" 404 -
+2025-08-29 13:12:36,843 [INFO] 127.0.0.1 - - [29/Aug/2025 13:12:36] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 13:12:37,265 [INFO] 127.0.0.1 - - [29/Aug/2025 13:12:37] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 13:12:44,434 [INFO] 127.0.0.1 - - [29/Aug/2025 13:12:44] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-29 13:12:46,562 [INFO] 127.0.0.1 - - [29/Aug/2025 13:12:46] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 13:14:08,370 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 13:14:08,370 [DEBUG] STREAM b'IDAT' 41 3081
+2025-08-29 13:14:08,373 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 13:14:08,373 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 13:14:08,432 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 13:14:08,433 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 13:14:08,571 [INFO] 127.0.0.1 - - [29/Aug/2025 13:14:08] "GET /download_pdf HTTP/1.1" 200 -
+2025-08-29 13:16:50,249 [INFO] 127.0.0.1 - - [29/Aug/2025 13:16:50] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 13:16:50,609 [INFO] 127.0.0.1 - - [29/Aug/2025 13:16:50] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 13:17:01,670 [INFO] 127.0.0.1 - - [29/Aug/2025 13:17:01] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-29 13:17:03,200 [INFO] 127.0.0.1 - - [29/Aug/2025 13:17:03] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 13:18:34,232 [INFO] 127.0.0.1 - - [29/Aug/2025 13:18:34] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 13:18:34,578 [INFO] 127.0.0.1 - - [29/Aug/2025 13:18:34] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 13:18:46,221 [INFO] 127.0.0.1 - - [29/Aug/2025 13:18:46] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 13:18:50,442 [INFO] 127.0.0.1 - - [29/Aug/2025 13:18:50] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-29 13:25:56,515 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-08-29 13:25:57,515 [INFO]  * Restarting with stat
+2025-08-29 13:26:05,318 [WARNING]  * Debugger is active!
+2025-08-29 13:26:05,318 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 13:26:32,057 [INFO] 127.0.0.1 - - [29/Aug/2025 13:26:32] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 14:36:39,814 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-08-29 14:36:41,131 [INFO]  * Restarting with stat
+2025-08-29 14:36:49,167 [WARNING]  * Debugger is active!
+2025-08-29 14:36:49,171 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 14:37:35,127 [INFO] 127.0.0.1 - - [29/Aug/2025 14:37:35] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 14:37:44,607 [INFO] 127.0.0.1 - - [29/Aug/2025 14:37:44] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 14:37:47,179 [INFO] 127.0.0.1 - - [29/Aug/2025 14:37:47] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 14:38:42,984 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-08-29 14:38:44,013 [INFO]  * Restarting with stat
+2025-08-29 14:38:51,582 [WARNING]  * Debugger is active!
+2025-08-29 14:38:51,582 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 14:40:12,796 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 14:40:12,796 [DEBUG] STREAM b'IDAT' 41 2074
+2025-08-29 14:40:12,810 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 14:40:12,810 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 14:40:12,854 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 14:40:12,855 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 14:40:13,084 [INFO] 127.0.0.1 - - [29/Aug/2025 14:40:13] "GET /download_pdf HTTP/1.1" 200 -
+2025-08-29 14:43:04,560 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-08-29 14:43:05,254 [INFO]  * Restarting with stat
+2025-08-29 14:43:12,898 [WARNING]  * Debugger is active!
+2025-08-29 14:43:12,898 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 14:43:48,500 [INFO] 127.0.0.1 - - [29/Aug/2025 14:43:48] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 14:44:04,343 [INFO] 127.0.0.1 - - [29/Aug/2025 14:44:04] "[35m[1mGET /download_pdf HTTP/1.1[0m" 500 -
+2025-08-29 14:44:04,494 [INFO] 127.0.0.1 - - [29/Aug/2025 14:44:04] "GET /download_pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-08-29 14:44:04,594 [INFO] 127.0.0.1 - - [29/Aug/2025 14:44:04] "GET /download_pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-08-29 14:44:05,014 [INFO] 127.0.0.1 - - [29/Aug/2025 14:44:05] "GET /download_pdf?__debugger__=yes&cmd=resource&f=console.png&s=wdp65ItJnSP7u4IKm4sj HTTP/1.1" 200 -
+2025-08-29 14:44:05,241 [INFO] 127.0.0.1 - - [29/Aug/2025 14:44:05] "GET /download_pdf?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-08-29 14:44:25,145 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-08-29 14:44:26,105 [INFO]  * Restarting with stat
+2025-08-29 14:44:33,678 [WARNING]  * Debugger is active!
+2025-08-29 14:44:33,678 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 15:32:52,473 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-08-29 15:32:53,313 [INFO]  * Restarting with stat
+2025-08-29 15:33:00,508 [WARNING]  * Debugger is active!
+2025-08-29 15:33:00,516 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 15:33:32,454 [INFO] 127.0.0.1 - - [29/Aug/2025 15:33:32] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 15:33:59,843 [INFO] 127.0.0.1 - - [29/Aug/2025 15:33:59] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-29 15:36:43,224 [INFO] 127.0.0.1 - - [29/Aug/2025 15:36:43] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 15:39:13,395 [INFO] 127.0.0.1 - - [29/Aug/2025 15:39:13] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 15:39:13,819 [INFO] 127.0.0.1 - - [29/Aug/2025 15:39:13] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 15:39:46,516 [INFO] 127.0.0.1 - - [29/Aug/2025 15:39:46] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 15:39:54,516 [INFO] 127.0.0.1 - - [29/Aug/2025 15:39:54] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-29 16:02:14,702 [INFO] 127.0.0.1 - - [29/Aug/2025 16:02:14] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 16:02:15,138 [INFO] 127.0.0.1 - - [29/Aug/2025 16:02:15] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 16:04:24,188 [INFO] 127.0.0.1 - - [29/Aug/2025 16:04:24] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 16:05:12,498 [INFO] 127.0.0.1 - - [29/Aug/2025 16:05:12] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-29 16:05:31,704 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 16:05:31,705 [DEBUG] STREAM b'IDAT' 41 613
+2025-08-29 16:05:31,732 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 16:05:31,734 [DEBUG] STREAM b'IDAT' 41 5697
+2025-08-29 16:05:31,816 [DEBUG] STREAM b'IHDR' 16 13
+2025-08-29 16:05:31,818 [DEBUG] STREAM b'IDAT' 41 8192
+2025-08-29 16:05:32,627 [INFO] 127.0.0.1 - - [29/Aug/2025 16:05:32] "GET /download_pdf HTTP/1.1" 200 -
+2025-08-29 17:39:14,235 [INFO] 127.0.0.1 - - [29/Aug/2025 17:39:14] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 17:39:14,657 [INFO] 127.0.0.1 - - [29/Aug/2025 17:39:14] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 17:39:21,019 [INFO] 127.0.0.1 - - [29/Aug/2025 17:39:21] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 17:39:26,163 [INFO] 127.0.0.1 - - [29/Aug/2025 17:39:26] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-29 18:18:35,935 [INFO] 127.0.0.1 - - [29/Aug/2025 18:18:35] "[35m[1mPOST /run_pipeline HTTP/1.1[0m" 500 -
+2025-08-29 18:30:32,176 [INFO] 127.0.0.1 - - [29/Aug/2025 18:30:32] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 18:30:33,480 [INFO] 127.0.0.1 - - [29/Aug/2025 18:30:33] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 18:32:16,617 [INFO] 127.0.0.1 - - [29/Aug/2025 18:32:16] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 18:33:02,671 [INFO] 127.0.0.1 - - [29/Aug/2025 18:33:02] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-29 19:02:40,578 [INFO] 127.0.0.1 - - [29/Aug/2025 19:02:40] "[36mGET /download?file=changed_rgb.png HTTP/1.1[0m" 304 -
+2025-08-29 19:06:01,418 [INFO] 127.0.0.1 - - [29/Aug/2025 19:06:01] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 19:06:01,901 [INFO] 127.0.0.1 - - [29/Aug/2025 19:06:01] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 19:06:13,238 [INFO] 127.0.0.1 - - [29/Aug/2025 19:06:13] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 19:09:35,868 [INFO] 127.0.0.1 - - [29/Aug/2025 19:09:35] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 19:09:36,258 [INFO] 127.0.0.1 - - [29/Aug/2025 19:09:36] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 19:11:24,486 [INFO] 127.0.0.1 - - [29/Aug/2025 19:11:24] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 19:15:37,390 [INFO] 127.0.0.1 - - [29/Aug/2025 19:15:37] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-29 19:17:24,177 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\utils\\image_splitter.py', reloading
+2025-08-29 19:17:32,338 [INFO]  * Restarting with stat
+2025-08-29 19:18:00,257 [WARNING]  * Debugger is active!
+2025-08-29 19:18:00,266 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 19:37:34,147 [INFO] 127.0.0.1 - - [29/Aug/2025 19:37:34] "[35m[1mPOST /run_pipeline HTTP/1.1[0m" 500 -
+2025-08-29 21:13:19,293 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\utils\\image_splitter.py', reloading
+2025-08-29 21:13:20,627 [INFO]  * Restarting with stat
+2025-08-29 21:27:40,046 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-29 21:27:40,046 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-29 21:27:40,052 [INFO]  * Restarting with stat
+2025-08-29 21:27:45,797 [WARNING]  * Debugger is active!
+2025-08-29 21:27:45,797 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 21:51:26,064 [INFO] 127.0.0.1 - - [29/Aug/2025 21:51:26] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 21:51:26,614 [INFO] 127.0.0.1 - - [29/Aug/2025 21:51:26] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 22:04:05,737 [INFO] 127.0.0.1 - - [29/Aug/2025 22:04:05] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 22:04:54,477 [INFO] 127.0.0.1 - - [29/Aug/2025 22:04:54] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-29 22:07:35,887 [INFO] 127.0.0.1 - - [29/Aug/2025 22:07:35] "[36mGET /download?file=changed_rgb.png HTTP/1.1[0m" 304 -
+2025-08-29 22:07:40,367 [INFO] 127.0.0.1 - - [29/Aug/2025 22:07:40] "[36mGET /download?file=binary_mask.png HTTP/1.1[0m" 304 -
+2025-08-29 22:27:19,632 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-08-29 22:27:21,066 [INFO]  * Restarting with stat
+2025-08-29 22:27:30,069 [WARNING]  * Debugger is active!
+2025-08-29 22:27:30,073 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 22:27:34,715 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-08-29 22:27:35,412 [INFO]  * Restarting with stat
+2025-08-29 22:27:42,405 [WARNING]  * Debugger is active!
+2025-08-29 22:27:42,408 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 22:49:18,205 [INFO] 127.0.0.1 - - [29/Aug/2025 22:49:18] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 22:49:18,662 [INFO] 127.0.0.1 - - [29/Aug/2025 22:49:18] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 22:49:35,407 [INFO] 127.0.0.1 - - [29/Aug/2025 22:49:35] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-29 22:49:37,780 [INFO] 127.0.0.1 - - [29/Aug/2025 22:49:37] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 22:58:41,205 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-08-29 22:58:42,784 [INFO]  * Restarting with stat
+2025-08-29 22:58:52,480 [WARNING]  * Debugger is active!
+2025-08-29 22:58:52,488 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 23:18:15,974 [INFO] 127.0.0.1 - - [29/Aug/2025 23:18:15] "[35m[1mPOST /run_pipeline HTTP/1.1[0m" 500 -
+2025-08-29 23:26:15,515 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-08-29 23:26:17,084 [INFO]  * Restarting with stat
+2025-08-29 23:26:25,212 [WARNING]  * Debugger is active!
+2025-08-29 23:26:25,212 [INFO]  * Debugger PIN: 119-874-805
+2025-08-29 23:43:24,670 [INFO] 127.0.0.1 - - [29/Aug/2025 23:43:24] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 23:43:25,152 [INFO] 127.0.0.1 - - [29/Aug/2025 23:43:25] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 23:43:39,476 [INFO] 127.0.0.1 - - [29/Aug/2025 23:43:39] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 23:45:06,352 [INFO] 127.0.0.1 - - [29/Aug/2025 23:45:06] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-29 23:45:06,735 [INFO] 127.0.0.1 - - [29/Aug/2025 23:45:06] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-29 23:45:14,115 [INFO] 127.0.0.1 - - [29/Aug/2025 23:45:14] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-29 23:47:59,498 [INFO] 127.0.0.1 - - [29/Aug/2025 23:47:59] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-30 13:02:45,538 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-30 13:02:45,538 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-30 13:02:45,538 [INFO]  * Restarting with stat
+2025-08-30 13:02:51,327 [WARNING]  * Debugger is active!
+2025-08-30 13:02:51,327 [INFO]  * Debugger PIN: 119-874-805
+2025-08-30 13:14:32,756 [INFO] 127.0.0.1 - - [30/Aug/2025 13:14:32] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-30 13:14:33,290 [INFO] 127.0.0.1 - - [30/Aug/2025 13:14:33] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-30 13:22:17,335 [INFO] 127.0.0.1 - - [30/Aug/2025 13:22:17] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-30 13:22:18,927 [INFO] 127.0.0.1 - - [30/Aug/2025 13:22:18] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-30 13:24:50,767 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-08-30 13:24:51,884 [INFO]  * Restarting with stat
+2025-08-30 13:25:01,470 [WARNING]  * Debugger is active!
+2025-08-30 13:25:01,474 [INFO]  * Debugger PIN: 119-874-805
+2025-08-30 13:32:28,904 [INFO] 127.0.0.1 - - [30/Aug/2025 13:32:28] "[35m[1mPOST /run_pipeline HTTP/1.1[0m" 500 -
+2025-08-30 13:32:29,708 [INFO] 127.0.0.1 - - [30/Aug/2025 13:32:29] "[36mGET /download?file=changed_rgb.png HTTP/1.1[0m" 304 -
+2025-08-30 13:42:31,169 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\utils\\image_splitter.py', reloading
+2025-08-30 13:42:32,269 [INFO]  * Restarting with stat
+2025-08-30 13:42:40,414 [WARNING]  * Debugger is active!
+2025-08-30 13:42:40,417 [INFO]  * Debugger PIN: 119-874-805
+2025-08-30 13:49:34,150 [INFO] 127.0.0.1 - - [30/Aug/2025 13:49:34] "[35m[1mPOST /run_pipeline HTTP/1.1[0m" 500 -
+2025-08-30 13:49:34,582 [INFO] 127.0.0.1 - - [30/Aug/2025 13:49:34] "[36mGET /download?file=changed_rgb.png HTTP/1.1[0m" 304 -
+2025-08-30 14:09:26,130 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\utils\\image_splitter.py', reloading
+2025-08-30 14:09:27,230 [INFO]  * Restarting with stat
+2025-08-30 14:09:35,828 [WARNING]  * Debugger is active!
+2025-08-30 14:09:35,828 [INFO]  * Debugger PIN: 119-874-805
+2025-08-30 14:26:19,877 [INFO] 127.0.0.1 - - [30/Aug/2025 14:26:19] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-30 14:26:20,421 [INFO] 127.0.0.1 - - [30/Aug/2025 14:26:20] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-30 14:30:55,702 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-08-30 14:30:56,705 [INFO]  * Restarting with stat
+2025-08-30 14:31:04,420 [WARNING]  * Debugger is active!
+2025-08-30 14:31:04,420 [INFO]  * Debugger PIN: 119-874-805
+2025-08-30 14:37:54,801 [INFO] 127.0.0.1 - - [30/Aug/2025 14:37:54] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-30 15:01:39,812 [INFO] 127.0.0.1 - - [30/Aug/2025 15:01:39] "[35m[1mPOST /run_pipeline HTTP/1.1[0m" 500 -
+2025-08-30 15:23:24,436 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\utils\\image_splitter.py', reloading
+2025-08-30 15:27:13,432 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-30 15:27:13,432 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-30 15:27:13,435 [INFO]  * Restarting with stat
+2025-08-30 15:27:19,361 [WARNING]  * Debugger is active!
+2025-08-30 15:27:19,361 [INFO]  * Debugger PIN: 119-874-805
+2025-08-30 15:45:12,991 [INFO] 127.0.0.1 - - [30/Aug/2025 15:45:12] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-30 15:45:13,996 [INFO] 127.0.0.1 - - [30/Aug/2025 15:45:13] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-30 16:09:09,977 [INFO] 127.0.0.1 - - [30/Aug/2025 16:09:09] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-30 16:40:06,942 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\runner_stransunet.py', reloading
+2025-08-30 16:40:11,687 [INFO]  * Restarting with stat
+2025-08-30 16:40:34,993 [WARNING]  * Debugger is active!
+2025-08-30 16:40:34,999 [INFO]  * Debugger PIN: 119-874-805
+2025-08-30 17:03:37,948 [INFO] 127.0.0.1 - - [30/Aug/2025 17:03:37] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-30 17:03:38,402 [INFO] 127.0.0.1 - - [30/Aug/2025 17:03:38] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-30 17:07:47,412 [INFO] 127.0.0.1 - - [30/Aug/2025 17:07:47] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-30 17:08:24,595 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\runner_stransunet.py', reloading
+2025-08-30 17:08:25,562 [INFO]  * Restarting with stat
+2025-08-30 17:08:32,861 [WARNING]  * Debugger is active!
+2025-08-30 17:08:32,875 [INFO]  * Debugger PIN: 119-874-805
+2025-08-30 17:16:58,154 [INFO] 127.0.0.1 - - [30/Aug/2025 17:16:58] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-30 17:16:58,871 [INFO] 127.0.0.1 - - [30/Aug/2025 17:16:58] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-30 17:27:40,327 [INFO] 127.0.0.1 - - [30/Aug/2025 17:27:40] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-30 17:27:40,968 [INFO] 127.0.0.1 - - [30/Aug/2025 17:27:40] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-30 17:27:52,651 [INFO] 127.0.0.1 - - [30/Aug/2025 17:27:52] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-30 17:27:54,274 [INFO] 127.0.0.1 - - [30/Aug/2025 17:27:54] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-30 17:29:48,052 [INFO] 127.0.0.1 - - [30/Aug/2025 17:29:48] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-30 17:55:18,751 [INFO] 127.0.0.1 - - [30/Aug/2025 17:55:18] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-30 17:55:19,265 [INFO] 127.0.0.1 - - [30/Aug/2025 17:55:19] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-30 18:24:15,077 [INFO] 127.0.0.1 - - [30/Aug/2025 18:24:15] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-08-30 18:24:23,328 [INFO] 127.0.0.1 - - [30/Aug/2025 18:24:23] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-08-30 19:27:49,422 [INFO] 127.0.0.1 - - [30/Aug/2025 19:27:49] "[36mGET /download?file=binary_mask.png HTTP/1.1[0m" 304 -
+2025-08-30 20:09:32,310 [INFO] 127.0.0.1 - - [30/Aug/2025 20:09:32] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-30 23:43:12,681 [INFO] 127.0.0.1 - - [30/Aug/2025 23:43:12] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-31 15:05:33,438 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-31 15:05:33,440 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-31 15:05:33,440 [INFO]  * Restarting with stat
+2025-08-31 15:05:39,729 [WARNING]  * Debugger is active!
+2025-08-31 15:05:39,736 [INFO]  * Debugger PIN: 119-874-805
+2025-08-31 16:18:20,506 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-31 16:18:20,508 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-31 16:18:20,511 [INFO]  * Restarting with stat
+2025-08-31 16:18:27,611 [WARNING]  * Debugger is active!
+2025-08-31 16:18:27,611 [INFO]  * Debugger PIN: 119-874-805
+2025-08-31 17:22:29,119 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-08-31 17:22:31,862 [INFO]  * Restarting with stat
+2025-08-31 17:22:57,032 [WARNING]  * Debugger is active!
+2025-08-31 17:22:57,056 [INFO]  * Debugger PIN: 119-874-805
+2025-08-31 18:05:40,697 [INFO] 127.0.0.1 - - [31/Aug/2025 18:05:40] "[35m[1mPOST /run_pipeline HTTP/1.1[0m" 500 -
+2025-08-31 18:07:58,871 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-08-31 18:08:04,586 [INFO]  * Restarting with stat
+2025-08-31 18:08:32,360 [WARNING]  * Debugger is active!
+2025-08-31 18:08:32,366 [INFO]  * Debugger PIN: 119-874-805
+2025-08-31 19:01:49,010 [INFO] 127.0.0.1 - - [31/Aug/2025 19:01:49] "POST /run_pipeline HTTP/1.1" 200 -
+2025-08-31 19:01:50,180 [INFO] 127.0.0.1 - - [31/Aug/2025 19:01:50] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-08-31 19:09:38,352 [INFO] 127.0.0.1 - - [31/Aug/2025 19:09:38] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-09-01 15:39:30,825 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-01 15:39:30,826 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-01 15:39:30,830 [INFO]  * Restarting with stat
+2025-09-01 15:39:37,250 [WARNING]  * Debugger is active!
+2025-09-01 15:39:37,257 [INFO]  * Debugger PIN: 119-874-805
+2025-09-01 15:51:14,639 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-09-01 15:51:15,491 [INFO]  * Restarting with stat
+2025-09-01 15:51:22,627 [WARNING]  * Debugger is active!
+2025-09-01 15:51:22,643 [INFO]  * Debugger PIN: 119-874-805
+2025-09-01 16:12:00,953 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-01 16:12:00,959 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-01 16:12:00,971 [INFO]  * Restarting with stat
+2025-09-01 16:12:24,875 [WARNING]  * Debugger is active!
+2025-09-01 16:12:24,902 [INFO]  * Debugger PIN: 119-874-805
+2025-09-01 16:12:51,904 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-09-01 16:12:54,788 [INFO]  * Restarting with stat
+2025-09-01 16:13:24,533 [WARNING]  * Debugger is active!
+2025-09-01 16:13:24,543 [INFO]  * Debugger PIN: 119-874-805
+2025-09-01 16:51:26,118 [INFO] 127.0.0.1 - - [01/Sep/2025 16:51:26] "POST /run_pipeline HTTP/1.1" 200 -
+2025-09-01 16:51:27,103 [INFO] 127.0.0.1 - - [01/Sep/2025 16:51:27] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-09-01 17:14:47,776 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-09-01 17:14:53,336 [INFO]  * Restarting with stat
+2025-09-01 17:15:28,740 [WARNING]  * Debugger is active!
+2025-09-01 17:15:28,752 [INFO]  * Debugger PIN: 119-874-805
+2025-09-01 17:15:30,896 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-09-01 17:15:33,314 [INFO]  * Restarting with stat
+2025-09-01 17:15:57,802 [WARNING]  * Debugger is active!
+2025-09-01 17:15:57,816 [INFO]  * Debugger PIN: 119-874-805
+2025-09-01 17:56:23,304 [INFO] 127.0.0.1 - - [01/Sep/2025 17:56:23] "POST /run_pipeline HTTP/1.1" 200 -
+2025-09-01 17:56:24,164 [INFO] 127.0.0.1 - - [01/Sep/2025 17:56:24] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-09-01 17:57:02,409 [DEBUG] STREAM b'IHDR' 16 13
+2025-09-01 17:57:02,410 [DEBUG] STREAM b'IDAT' 41 8192
+2025-09-01 17:57:03,098 [DEBUG] STREAM b'IHDR' 16 13
+2025-09-01 17:57:03,100 [DEBUG] STREAM b'IDAT' 41 8192
+2025-09-01 17:57:04,147 [DEBUG] STREAM b'IHDR' 16 13
+2025-09-01 17:57:04,149 [DEBUG] STREAM b'IDAT' 41 8192
+2025-09-01 17:57:24,096 [INFO] 127.0.0.1 - - [01/Sep/2025 17:57:24] "GET /download_pdf HTTP/1.1" 200 -
+2025-09-01 18:56:46,230 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-09-01 18:56:50,717 [INFO]  * Restarting with stat
+2025-09-01 18:57:16,771 [WARNING]  * Debugger is active!
+2025-09-01 18:57:16,788 [INFO]  * Debugger PIN: 119-874-805
+2025-09-01 19:38:46,547 [INFO] 127.0.0.1 - - [01/Sep/2025 19:38:46] "POST /run_pipeline HTTP/1.1" 200 -
+2025-09-01 19:38:47,488 [INFO] 127.0.0.1 - - [01/Sep/2025 19:38:47] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-09-01 19:51:33,141 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\inference\\pipeline.py', reloading
+2025-09-01 19:51:36,413 [INFO]  * Restarting with stat
+2025-09-01 19:52:14,177 [WARNING]  * Debugger is active!
+2025-09-01 19:52:14,191 [INFO]  * Debugger PIN: 119-874-805
+2025-09-01 20:37:12,166 [INFO] 127.0.0.1 - - [01/Sep/2025 20:37:12] "POST /run_pipeline HTTP/1.1" 200 -
+2025-09-01 20:37:13,191 [INFO] 127.0.0.1 - - [01/Sep/2025 20:37:13] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-09-01 20:45:51,272 [INFO]  * Detected change in 'C:\\Users\\User\\Desktop\\urban-change-detector\\backend\\app.py', reloading
+2025-09-01 20:45:56,506 [INFO]  * Restarting with stat
+2025-09-01 20:46:28,944 [WARNING]  * Debugger is active!
+2025-09-01 20:46:28,968 [INFO]  * Debugger PIN: 119-874-805
+2025-09-01 20:48:01,196 [INFO] 127.0.0.1 - - [01/Sep/2025 20:48:01] "POST /run_pipeline HTTP/1.1" 200 -
+2025-09-01 20:48:02,096 [INFO] 127.0.0.1 - - [01/Sep/2025 20:48:02] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-09-01 20:48:11,300 [DEBUG] STREAM b'IHDR' 16 13
+2025-09-01 20:48:11,301 [DEBUG] STREAM b'IDAT' 41 2074
+2025-09-01 20:48:11,349 [DEBUG] STREAM b'IHDR' 16 13
+2025-09-01 20:48:11,350 [DEBUG] STREAM b'IDAT' 41 8192
+2025-09-01 20:48:11,615 [DEBUG] STREAM b'IHDR' 16 13
+2025-09-01 20:48:11,618 [DEBUG] STREAM b'IDAT' 41 8192
+2025-09-01 20:48:12,245 [INFO] 127.0.0.1 - - [01/Sep/2025 20:48:12] "GET /download_pdf HTTP/1.1" 200 -
+2025-09-01 21:26:13,518 [INFO] 127.0.0.1 - - [01/Sep/2025 21:26:13] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-09-01 21:26:14,577 [INFO] 127.0.0.1 - - [01/Sep/2025 21:26:14] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-09-01 21:26:37,974 [DEBUG] STREAM b'IHDR' 16 13
+2025-09-01 21:26:37,984 [DEBUG] STREAM b'IDAT' 41 2074
+2025-09-01 21:26:38,401 [DEBUG] STREAM b'IHDR' 16 13
+2025-09-01 21:26:38,418 [DEBUG] STREAM b'IDAT' 41 8192
+2025-09-01 21:26:40,001 [DEBUG] STREAM b'IHDR' 16 13
+2025-09-01 21:26:40,012 [DEBUG] STREAM b'IDAT' 41 8192
+2025-09-01 21:26:43,718 [INFO] 127.0.0.1 - - [01/Sep/2025 21:26:43] "GET /download_pdf HTTP/1.1" 200 -
+2025-09-01 22:14:25,030 [INFO] 127.0.0.1 - - [01/Sep/2025 22:14:25] "[36mGET /download?file=binary_mask.png HTTP/1.1[0m" 304 -
+2025-09-02 17:17:19,499 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-02 17:17:19,505 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-02 17:17:19,510 [INFO]  * Restarting with stat
+2025-09-02 17:17:26,799 [WARNING]  * Debugger is active!
+2025-09-02 17:17:26,804 [INFO]  * Debugger PIN: 119-874-805
+2025-09-02 17:18:43,831 [INFO] 127.0.0.1 - - [02/Sep/2025 17:18:43] "POST /run_pipeline HTTP/1.1" 200 -
+2025-09-02 17:18:44,289 [INFO] 127.0.0.1 - - [02/Sep/2025 17:18:44] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-09-02 18:36:01,046 [INFO] 127.0.0.1 - - [02/Sep/2025 18:36:01] "POST /run_pipeline HTTP/1.1" 200 -
+2025-09-02 18:36:01,404 [INFO] 127.0.0.1 - - [02/Sep/2025 18:36:01] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-09-02 19:46:15,521 [INFO] 127.0.0.1 - - [02/Sep/2025 19:46:15] "POST /run_pipeline HTTP/1.1" 200 -
+2025-09-02 19:46:15,875 [INFO] 127.0.0.1 - - [02/Sep/2025 19:46:15] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-09-02 19:46:46,556 [INFO] 127.0.0.1 - - [02/Sep/2025 19:46:46] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-09-02 19:46:52,751 [INFO] 127.0.0.1 - - [02/Sep/2025 19:46:52] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-09-02 19:49:28,229 [INFO] 127.0.0.1 - - [02/Sep/2025 19:49:28] "POST /run_pipeline HTTP/1.1" 200 -
+2025-09-02 19:49:28,581 [INFO] 127.0.0.1 - - [02/Sep/2025 19:49:28] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-09-02 19:49:35,158 [INFO] 127.0.0.1 - - [02/Sep/2025 19:49:35] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-09-02 19:49:54,176 [DEBUG] STREAM b'IHDR' 16 13
+2025-09-02 19:49:54,177 [DEBUG] STREAM b'IDAT' 41 2074
+2025-09-02 19:49:54,194 [DEBUG] STREAM b'IHDR' 16 13
+2025-09-02 19:49:54,195 [DEBUG] STREAM b'IDAT' 41 8192
+2025-09-02 19:49:54,233 [DEBUG] STREAM b'IHDR' 16 13
+2025-09-02 19:49:54,233 [DEBUG] STREAM b'IDAT' 41 8192
+2025-09-02 19:49:54,410 [INFO] 127.0.0.1 - - [02/Sep/2025 19:49:54] "GET /download_pdf HTTP/1.1" 200 -
+2025-09-04 15:45:55,593 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-04 15:45:55,593 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-04 15:45:55,610 [INFO]  * Restarting with stat
+2025-09-04 15:46:02,724 [WARNING]  * Debugger is active!
+2025-09-04 15:46:02,731 [INFO]  * Debugger PIN: 119-874-805
+2025-09-04 15:47:23,222 [INFO] 127.0.0.1 - - [04/Sep/2025 15:47:23] "POST /run_pipeline HTTP/1.1" 200 -
+2025-09-04 15:47:23,698 [INFO] 127.0.0.1 - - [04/Sep/2025 15:47:23] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-09-04 15:47:38,616 [INFO] 127.0.0.1 - - [04/Sep/2025 15:47:38] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-09-04 15:47:40,003 [INFO] 127.0.0.1 - - [04/Sep/2025 15:47:40] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-09-06 12:39:23,164 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-06 12:39:23,164 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-06 12:39:23,180 [INFO]  * Restarting with stat
+2025-09-06 12:39:48,306 [WARNING]  * Debugger is active!
+2025-09-06 12:39:48,318 [INFO]  * Debugger PIN: 119-874-805
+2025-09-06 12:42:57,472 [INFO] 127.0.0.1 - - [06/Sep/2025 12:42:57] "POST /run_pipeline HTTP/1.1" 200 -
+2025-09-06 12:42:58,188 [INFO] 127.0.0.1 - - [06/Sep/2025 12:42:58] "GET /download?file=changed_rgb.png HTTP/1.1" 200 -
+2025-09-06 12:43:05,629 [INFO] 127.0.0.1 - - [06/Sep/2025 12:43:05] "GET /download?file=binary_mask.png HTTP/1.1" 200 -
+2025-09-06 12:43:07,656 [INFO] 127.0.0.1 - - [06/Sep/2025 12:43:07] "GET /download?file=vis_maskrcnn.png HTTP/1.1" 200 -
+2025-09-06 12:53:28,780 [INFO] 127.0.0.1 - - [06/Sep/2025 12:53:28] "[36mGET /download?file=binary_mask.png HTTP/1.1[0m" 304 -
